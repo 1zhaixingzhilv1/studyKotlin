@@ -1,5 +1,6 @@
 package com.example.kotlin
 
+///哈哈哈哈哈
 fun main(){
 
     //可读可改    变量名  类型      值
